@@ -1,0 +1,27 @@
+
+body {
+  background-color: white;
+}
+
+h1  {
+  color: rgb(11, 53, 2);
+  text-align: center;
+  background-color: lightgrey;
+}
+
+h2, ul{
+  margin-left: 100px;
+}
+
+
+p {
+  margin-left: 130px;
+}
+
+h2 {
+  color: #000000;
+}
+
+div {
+  background-color: lightgray;
+}
